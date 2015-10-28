@@ -1,5 +1,5 @@
 <?php include_once './topo_p1_exercicio3.php';?>
-<?php include_once './index.php';?>
+<?php include_once './index.php';?> 
                 <div id="menu_p1_exercicio3">
                     <ul>
                         <li><a href="home.php">Home</a></li>
