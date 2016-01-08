@@ -15,7 +15,7 @@ action="index.php?page=lista_clientes -->
                                 <label>ID:<input type="text" name="id" autofocus="#"></label>
                                 <label>Nome: <input type="text" name="nome" autofocus="#" ></label><br>
                                 <label>Email: <input type="email" name="email" autofocus="#"> </label><br>
-:                            </fieldset>
+                            </fieldset>
 
                             <input type="submit" name="enviar" value="enviar">
 
